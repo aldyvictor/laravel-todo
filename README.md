@@ -38,8 +38,10 @@ Then create a database named `todos` and then do a database migration using this
 php artisan migrate
 ```
 
-php artisan key:generate
+At last generate application key, which will be used for password hashing, session and cookie encryption etc.
 
+```
+php artisan key:generate
 ```
 
 ## Run server
@@ -57,9 +59,11 @@ Then go to `http://localhost:8000` from your browser and see the app.
 ## Screenshot
 
 ![Landing Page](/public/img/ToDo-App-Laravel.png)
-![Sign In Page](/screenshots/2.png)
-![Registration Page](/screenshots/3.png)
-![ToDo List Page](/screenshots/4.png)
-![Create New ToDo Page](/screenshots/5.png)
-![User Profile Page](/screenshots/6.png)
+![Sign In Page](/public/img/ToDo-App-Laravel.png)
+![Registration Page](/public/img/ToDo-App-Laravel.png)
+![ToDo List Page](/public/img/ToDo-App-Laravel.png)
+![Create New ToDo Page](/public/img/ToDo-App-Laravel.png)
+
+```
+
 ```
