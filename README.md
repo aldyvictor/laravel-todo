@@ -59,10 +59,10 @@ Then go to `http://localhost:8000` from your browser and see the app.
 ## Screenshot
 
 ![Landing Page](/public/img/ToDo-App-Laravel.png)
-![Sign In Page](/public/img/ToDo-App-Laravel.png)
-![Registration Page](/public/img/ToDo-App-Laravel.png)
-![ToDo List Page](/public/img/ToDo-App-Laravel.png)
-![Create New ToDo Page](/public/img/ToDo-App-Laravel.png)
+![Sign In Page](/public/img/ToDo-App-Laravel-Login.png)
+![Registration Page](/public/img/ToDo-App-Laravel-Register.png)
+![ToDo List Page](/public/img/ToDo-List-App-Laravel-Home.png)
+![Create New ToDo Page](/public/img/ToDo-App-Laravel-Create.png)
 
 ```
 
